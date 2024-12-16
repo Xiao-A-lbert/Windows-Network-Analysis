@@ -30,6 +30,7 @@ Running net view shows the Exfil file being shared on disk. Running net share sh
 <br />
 <br />  
 Using net use to map the X: drive to the Exfil folder on the local machine 127.0.0.1
+
 ![3) creating session as attacker in X drive](https://github.com/user-attachments/assets/fee92feb-08ee-4f32-8d98-684126b59a26)
 
 <br />
