@@ -40,7 +40,7 @@ Using net session shows the connected system on the windows vm. Net use shows wh
 ![4) net sessions net use ](https://github.com/user-attachments/assets/51394995-beaa-4bd2-9642-eab3d00dfa1a)
 
 <br />
-<br 
+<br />
 Running netstat -anob shows the notmalware tcp connection.
 
 ![5) netstat -anob shows active connections of notmalware to attacker](https://github.com/user-attachments/assets/ef34a4d4-2907-4fba-9894-ce48bc885046)
