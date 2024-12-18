@@ -41,7 +41,11 @@ Using net session shows the connected system on the windows vm. Net use shows wh
 
 <br />
 <br />
-Running netstat -anob shows the notmalware tcp connection.
+Running netstat -anob shows the notmalware tcp connection. The netstat -anob command is a powerful network diagnostic tool used in Windows systems to display detailed information about network connections and their associated processes. Here's a breakdown of each option:
+-a: Shows all active connections and listening ports,
+-n: Displays addresses and port numbers in numerical form, rather than resolving to hostnames or service names,
+-o: Displays the process ID (PID) associated with each connection,
+-b: Shows the executable involved in creating each connection or listening port (requires administrative privileges.
 
 ![5) netstat -anob shows active connections of notmalware to attacker](https://github.com/user-attachments/assets/ef34a4d4-2907-4fba-9894-ce48bc885046)
 
